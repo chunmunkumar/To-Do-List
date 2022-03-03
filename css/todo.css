@@ -1,0 +1,51 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.header{
+    text-align: center;
+    height: 50px;
+    width: 100%;
+    background-color: black;
+    color: white;
+}
+
+#ListInput{
+    position: relative;
+    margin-top: 100px;
+    margin-left: 500px;
+    text-align: center;
+    font-size:50px;
+
+}
+
+input,.listview{
+    height: 50px;
+    width: 400px;
+    font-size: 15px;
+    border-radius: 10px;
+
+ 
+}
+
+button {
+    
+    height: 50px;
+    width: 100px;
+    margin-left: -5px;
+    margin-top: 20px;
+    border-radius: 10px;
+    align-items: auto;
+
+
+}
+
+.listview{
+    text-align: center;
+    font-size:30px;
+    margin-left: 500px;
+    
+
+}
